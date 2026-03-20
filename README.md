@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning MERN Stack <br>🎯 Goals: 🚀 Passionate about crafting seamless user experiences and robust backend systems, aiming to drive innovation and efficiency in web development projects. 🌐💻<br>🎲 Fun fact: I am a PRO  BGMI player  (come one to one in TDM▶️)</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning DevOps <br>🎯 Goals: 🚀 Passionate about crafting seamless user experiences and robust backend systems, aiming to drive innovation and efficiency in web development projects. 🌐💻<br>🎲 Fun fact: I am a PRO  BGMI player  (come one to one in TDM▶️)</p>
 
 ###
 <div align="left">
