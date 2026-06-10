@@ -4,11 +4,35 @@
 
 ###
 
-<h1 align="center">Hey 👋 I'm Shiv Mishra</h1>
+## Hey 👋 I'm Shiv Mishra
 
-###
+🔍 Anti-Piracy & Brand Protection Professional with experience in monitoring unauthorized content distribution, investigating infringement cases, and supporting content protection operations through automation and data analysis.
 
-<p align="left">🚀 Junior DevOps Engineer | Python Automation | Linux & Cloud Enthusiast  <br><br>- Strong foundation in Linux, Bash scripting, and system-level automation  <br>- Hands-on experience with Python for automation and problem-solving  <br>- Working with containerized environments (Docker) and orchestration basics (Kubernetes)  <br>- Built and managed CI/CD workflows for efficient deployments  <br><br>💡 Beyond Tech  <br>- Interested in understanding how systems scale and behave in real-world scenarios  <br>- Enjoy breaking down complex problems into efficient automated solutions  <br>- Continuously improving by building, experimenting, and optimizing workflows  <br><br>⚡ Personal Side  <br>- Curious mindset — always exploring how things work under the hood  <br>- Prefer automation over repetition  <br>- Believe in consistency over shortcuts  <br><br>💼 Open to Junior DevOps / Cloud Engineer roles</p>
+### What I Do
+
+- Monitor online platforms for copyright infringement and unauthorized content distribution
+- Conduct investigations using OSINT techniques and web research
+- Automate repetitive monitoring and reporting workflows using Python
+- Analyze infringement trends and prepare actionable reports
+- Support content takedown and enforcement processes
+
+### Technical Skills
+
+- Data Collection & Analysis
+- Web Scraping
+- Linux
+- SQL
+- Excel & Reporting
+- OSINT Investigation
+- Digital Risk Monitoring
+
+### Beyond Work
+
+- Interested in online brand protection and digital investigations
+- Enjoy automating manual workflows
+- Passionate about learning how internet ecosystems operate
+
+📫 Open to Anti-Piracy, Content Protection, Trust & Safety, and Brand Protection opportunities.
 
 ###
 
